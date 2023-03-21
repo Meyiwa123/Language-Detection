@@ -10,13 +10,13 @@ This project is an implementation of a language detection system using machine l
 
 ## Installation
 Clone the repository:
-$git clone https://github.com/yourusername/language-detection.git$
-$cd language-detection$
+`git clone https://github.com/yourusername/language-detection.git`
+`cd language-detection`
 Install the required packages:
-$pip install -r requirements.txt$
+`pip install -r requirements.txt`
 
 ## Usage
-To use the language detection system, run the main.py file, $python main.py$ You will be prompted to enter a text string to classify. The system will output the predicted language of the text based on the machine learning model. You can also modify the code to classify a list of text strings or input from a file.
+To use the language detection system, run the main.py file, `python main.py` You will be prompted to enter a text string to classify. The system will output the predicted language of the text based on the machine learning model. You can also modify the code to classify a list of text strings or input from a file.
 
 ## Methodology
 
